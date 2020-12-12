@@ -16,3 +16,5 @@ vendor/
 .env
 *.log
 dist/
+
+node_modules/

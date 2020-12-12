@@ -1,0 +1,32 @@
+{
+  "name": "simp",
+  "version": "0.0.1",
+  "description": "A simple code execution tools that does whatever you want it to just not keep-alive type of commands",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "go-npm install",
+    "preuninstall": "go-npm uninstall"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bywachira/simp-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "automation"
+  ],
+  "author": "tesh254",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bywachira/simp-cli/issues"
+  },
+  "homepage": "https://github.com/bywachira/simp-cli#readme",
+  "dependencies": {
+    "go-npm": "^0.1.9"
+  },
+  "goBinary": {
+    "name": "simp",
+    "path": "./bin",
+    "url": "https://github.com/user/myrepo/releases/download/v{{version}}/myBinaryName{{platform}}_{{arch}}.tar.gz"
+  }
+}
