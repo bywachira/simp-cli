@@ -1,6 +1,6 @@
 {
-  "name": "simp",
-  "version": "0.0.1",
+  "name": "@wachira/simp-cli",
+  "version": "1.0.0",
   "description": "A simple code execution tools that does whatever you want it to just not keep-alive type of commands",
   "main": "index.js",
   "scripts": {
