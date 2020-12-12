@@ -17,4 +17,6 @@ Create a json file in the root of your project named `simp.json`. Your file shou
 > **Note:** Simp cannot execute commands that run forever e.g. nodemon, any keep-alive server you get the point
 
 ## Next Update
-- [ ] Webhook calls on successful/unsuccesful commands 
+
+- 🔘 Webhook calls on successful/unsuccesful commands
+- 🔘 Serve html on active server
