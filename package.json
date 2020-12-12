@@ -1,7 +1,7 @@
 {
   "name": "@wachira/simp-cli",
-  "version": "1.0.0",
-  "description": "A simple code execution tools that does whatever you want it to just not keep-alive type of commands",
+  "version": "1.0.1",
+  "description": "A simple code execution tools that does whatever you want except the ones that run forever",
   "main": "index.js",
   "scripts": {
     "postinstall": "go-npm install",
