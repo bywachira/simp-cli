@@ -1,5 +1,5 @@
 builds:
-  - binary: simp
+  - binary: simp-cli
     goos:
       - windows
       - darwin
