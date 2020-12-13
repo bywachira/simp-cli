@@ -1,6 +1,6 @@
 {
   "name": "@wachira/simp-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple code execution tools that does whatever you want except the ones that run forever",
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,7 @@
     "go-npm": "^0.1.9"
   },
   "goBinary": {
-    "name": "simp",
+    "name": "simp-cli",
     "path": "./bin",
     "url": "https://github.com/bywachira/simp-cli/releases/download/v{{version}}/simp-cli_v{{version}}-SNAPSHOT_{{platform}}_{{arch}}.tar.gz"
   }
