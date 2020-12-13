@@ -27,6 +27,6 @@
   "goBinary": {
     "name": "simp",
     "path": "./bin",
-    "url": "https://github.com/user/myrepo/releases/download/v{{version}}/myBinaryName{{platform}}_{{arch}}.tar.gz"
+    "url": "https://github.com/bywachira/simp-cli/releases/download/v{{version}}/simp-cli_v{{version}}-SNAPSHOT_{{platform}}_{{arch}}.tar.gz"
   }
 }
